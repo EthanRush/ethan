@@ -1,6 +1,6 @@
 # Ethan Rush Portfolio
 
-Ethan Rush is a engineer, and software developer. 
+Ethan Rush is an engineer, and software developer. 
 
 
 
@@ -8,6 +8,7 @@ Ethan Rush is a engineer, and software developer.
 
 
 Portfolio website adapted form Boostrap template with the following license:
+Logo design by  **[Hanieka Balint](http://hanieka.com/)**,
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 * http://davidmiller.io
